@@ -1,4 +1,4 @@
-## Personal Game Hub
+## Video Game Stats
 A web application that displays the most popular video games in the last 20 years, information about them, and my personal statistics on some of my favorites. Built with React (also React Router and React Query), Zustand, Typescript, Chakra UI, and the RawG API.
 
 ## Project Status
