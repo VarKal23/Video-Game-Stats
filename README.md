@@ -6,6 +6,9 @@ I'm still adding my personal statistics for some of my favorite games. I have to
 
 ## Project Screen Shot(s)
 
+![Screenshot (70)](https://github.com/VarKal23/personal-game-hub/assets/92049401/aeec71a2-1d6f-40ad-9fea-91e3038eb16b)
+![Screenshot (71)](https://github.com/VarKal23/personal-game-hub/assets/92049401/5a6cdd4b-5e23-4c1e-87aa-35e7900e467c)
+
 ## Installation and Setup Instructions
 Clone down this repository. You will need `node` and `npm` installed globally on your machine.  
 
